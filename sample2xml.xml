@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <person>
         <name>
                 <first>George</first>
                 <last>Washington</last>
-        </name>
+        <middle>Father of our Country</middle><middle>Father of our Country</middle></name>
+
         <date type="birthday">
                 <month>February</month>
                 <day>22</day>
